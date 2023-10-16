@@ -42,11 +42,3 @@ You can modify the JSON file to add or remove categories and quotes as you wish.
 ## Disclaimer
 
 This app is not intended to be used in production. It is only a basic example for learning and experimenting with FastAPI. Use it at your own risk.
-
-Kaynak: Bing ile konuşma, 16.10.2023
-(1) Just stand.... undefined.
-(2) FastAPI is.... undefined.
-(3) uvicorn- f.... undefined.
-(4) About the .... undefined.
-(5) Now go to .... undefined.
-(6) And now, g.... undefined.
